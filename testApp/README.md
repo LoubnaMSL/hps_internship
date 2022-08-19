@@ -3,7 +3,8 @@
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
 ## About
-this project was recreated by me for applied how does a file TS transforme to file JS, and how does TS work..
+
+> this project was recreated by me for applied how does a file TS transforme to file JS, and how does TS work..
 
 ## Available Scripts
 

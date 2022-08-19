@@ -4,7 +4,7 @@
 
 ## About
 
-> This project was recreated by me for applied how does a file TS transforme to file JS, and how does TS work..
+> `#0969DA This project was recreated by me for` applied how does a file TS transforme to file JS, and how does TS work..
 
 
 > The owner of the projet is **[Web Dev Simplified](https://courses.webdevsimplified.com/)**

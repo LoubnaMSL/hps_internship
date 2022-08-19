@@ -1,7 +1,4 @@
-# hps_internship 
-
-
-## TestApp
+# New Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 

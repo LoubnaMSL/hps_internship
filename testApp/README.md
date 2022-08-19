@@ -4,8 +4,8 @@
 
 ## About
 
-> this project was recreated by me for applied how does a file TS transforme to file JS, and how does TS work..
-the owner of the projet is **[Web Dev Simplified](https://courses.webdevsimplified.com/)**
+> This project was recreated by me for applied how does a file TS transforme to file JS, and how does TS work..
+> The owner of the projet is **[Web Dev Simplified](https://courses.webdevsimplified.com/)**
 
 ## Available Scripts
 

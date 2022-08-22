@@ -1,27 +1,22 @@
-# hps_internship 
+# HPS INTERNSHIP 
 
 
-## TestApp
+> ✨ this repository collect my work durant my intership in Hightech Payment System (HPS) company.
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
 
-## Available Scripts
+## HPS
 
-### npm start
+*Hightech Payment Systems* (HPS) is a Moroccan multinational specialized in publishing electronic payment solutions for financial institutions, processors, national and regional switches around the world.
 
-Runs the app in the development mode.
-Open http://localhost:8080 to view it in the browser.
+The PowerCARD suite of solutions is used by more than 350 entities in more than 90 countries and processes all types of cards (credit, debit, prepaid, corporate, loyalty, fuel).
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
+## About
 
-### npm run build
+Developing an **extension** on Visual Studio Code using:
 
-Builds a static copy of your site to the `build/` folder.
-Your app is ready to be deployed!
+- ***Git & github***
 
-**For the best production performance:** Add a build bundler plugin like [@snowpack/plugin-webpack](https://github.com/snowpackjs/snowpack/tree/main/plugins/plugin-webpack) or [snowpack-plugin-rollup-bundle](https://github.com/ParamagicDev/snowpack-plugin-rollup-bundle) to your `snowpack.config.mjs` config file.
+- ***JavaScript & TypeScript***
 
-### Q: What about Eject?
+- ***JSON Format***
 
-No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.

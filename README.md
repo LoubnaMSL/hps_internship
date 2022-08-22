@@ -2,7 +2,7 @@
 
 
 
-> ✨ this repository collect my work durant my intership in Hightech Payment System (HPS) company.
+> ✨ This repository collect my work durant my intership in Hightech Payment System (HPS) company.
 
 
 
